@@ -1,6 +1,11 @@
 "BANKSWIFT-FUNDS-MANAGER"
 
-An online funds managing website where users store their spendings and keep track of their transactions.
+An online funds managing website where users store their spendings and keep track of their transactions, built using;
+
+- HTML5
+- CSS3
+- JavaScript
+
 
 Credentials REQUIRED for access:
 
