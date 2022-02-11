@@ -26,3 +26,8 @@ Features that still need to be added:
 2. Dynamic Log out timer
 3. Custom User creation on the homepage itself
 and many more...
+
+
+Acknowledgments:
+
+Guidance provided by "The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann"
