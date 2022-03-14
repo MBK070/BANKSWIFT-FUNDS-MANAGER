@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/01d6c987-b77a-4f50-bc5c-ef2a6adabaae/deploy-status)](https://app.netlify.com/sites/bankswift-funds-manager/deploys)
 
-https://bankswift-funds-manager.netlify.app/
+Access to Live-Site: https://bankswift-funds-manager.netlify.app/
 
 
 "BANKSWIFT-FUNDS-MANAGER"
