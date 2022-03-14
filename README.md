@@ -1,3 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01d6c987-b77a-4f50-bc5c-ef2a6adabaae/deploy-status)](https://app.netlify.com/sites/bankswift-funds-manager/deploys)
+
+https://bankswift-funds-manager.netlify.app/
+
+
 "BANKSWIFT-FUNDS-MANAGER"
 
 An online funds managing website where users store their spendings and keep track of their transactions, built using;
@@ -39,4 +44,4 @@ and many more...
 
 Acknowledgments:
 
-Guidance provided by "The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann"
+Guidance taken from "The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann"
